@@ -4,3 +4,6 @@ Solved the cats and dogs problem given on kaggle. Used only the training data gi
 Accuracy:
   Training data: 99.815%
   Testing data:  87.76%
+
+
+Used Google Colab and installed the kaggle API.
